@@ -4,8 +4,10 @@
 # Overview
 
 The thesis addressed two research questions:
-1. **RQ1**: *What are the determinant factors that should be considered in the development of traditional and AI-driven pricing approaches by retailers?*
-2. **RQ2**: *What is the impact of using an AI-driven pricing model over the traditional model in terms of profitability?*
+
+   **RQ1**: *What are the determinant factors that should be considered in the development of traditional and AI-driven pricing approaches by retailers?*
+   
+   **RQ2**: *What is the impact of using an AI-driven pricing model over the traditional model in terms of profitability?*
 
 This repository focuses on the second research question (RQ2), presenting the design and development of a prototype that demonstrates how AI-driven pricing models can significantly improve retailers’ profits compared to traditional methods.
 
